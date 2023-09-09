@@ -1,4 +1,4 @@
-### Results
+# Results
 
 This a part of [The Frontent Mentor](https://www.frontendmentor.io/home)
 
